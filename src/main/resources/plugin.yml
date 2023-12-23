@@ -1,0 +1,6 @@
+name: AssistLogger
+main: tc.oc.occ.assistlogger.AssistLogger
+description: Logs PGM assists to a file
+version: ${project.version}
+author: Pugzy
+softdepend: [PGM]

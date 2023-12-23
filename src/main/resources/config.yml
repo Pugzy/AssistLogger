@@ -1,0 +1,4 @@
+# Should this be enabled?
+enabled: true
+# Defaults to plugin storage path
+storage-path:
